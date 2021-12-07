@@ -1,0 +1,2 @@
+rootProject.name = "Ph3Project3"
+include ':app'
